@@ -5,26 +5,26 @@ body{
 }
 @font-face {
     font-family: 'Arial';
-    src: url('../fonts/ArialMT.eot');
-    src: url('../fonts/ArialMT.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/ArialMT.woff') format('woff'),
-    url('../fonts/ArialMT.ttf') format('truetype');
+    src: url('ArialMT.eot');
+    src: url('ArialMT.eot?#iefix') format('embedded-opentype'),
+    url('ArialMT.woff') format('woff'),
+    url('ArialMT.ttf') format('truetype');
     font-weight: 400;
     }
 @font-face {
     font-family: 'Arial';
-    src: url('../fonts/Arial-BoldMT.eot');
-    src: url('../fonts/Arial-BoldMT.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/Arial-BoldMT.woff') format('woff'),
-    url('../fonts/Arial-BoldMT.ttf') format('truetype');
+    src: url('Arial-BoldMT.eot');
+    src: url('Arial-BoldMT.eot?#iefix') format('embedded-opentype'),
+    url('Arial-BoldMT.woff') format('woff'),
+    url('Arial-BoldMT.ttf') format('truetype');
     font-weight: 700;
     }
 @font-face {
     font-family: 'Helvetica';
-    src: url('../fonts/HelveticaLTStd-LightCondObl.eot');
-    src: url('../fonts/HelveticaLTStd-LightCondObl.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/HelveticaLTStd-LightCondObl.woff') format('woff'),
-    url('../fonts/HelveticaLTStd-LightCondObl.ttf') format('truetype');
+    src: url('HelveticaLTStd-LightCondObl.eot');
+    src: url('HelveticaLTStd-LightCondObl.eot?#iefix') format('embedded-opentype'),
+    url('HelveticaLTStd-LightCondObl.woff') format('woff'),
+    url('HelveticaLTStd-LightCondObl.ttf') format('truetype');
     font-weight: 100;
     }
     .container{
